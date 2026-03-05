@@ -1,0 +1,8 @@
+torch
+nuscenes-devkit
+numpy
+matplotlib
+pypdf
+scikit-image
+scipy
+shapely
